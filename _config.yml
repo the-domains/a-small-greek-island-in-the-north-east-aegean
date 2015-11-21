@@ -1,0 +1,28 @@
+name: A small Greek Island in the NortH East Aegean
+favicon: null
+layout_spectrum: 0.5907822190783918
+typography_spectrum: 0.4261349921580404
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.27995775430463254
+  lightness: 0.6832795601803809
+  saturation: 0.8919333203230053
+  rhythmicContrast: 0.46145786833949387
+purpose: []
